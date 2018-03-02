@@ -23,3 +23,15 @@
 - [ ] If this PR is a new feature, please reference an issue where a consensus about the design was reached (not necessary for small changes)
 - [ ] Make sure all of the significant new logic is covered by tests
 - [ ] If this was a change that affects the external API used in GitHunt-React, update GitHunt-React and post a link to the PR in the discussion.
+
+    **Labels**
+
+- [ ] has-reproduction
+- [ ] feature
+- [ ] blocking
+- [ ] good-first-review
+
+<!--
+You are also able to add labels by placing /label on a new line
+followed by the label you would like to add. ex: /label discussion
+-->
